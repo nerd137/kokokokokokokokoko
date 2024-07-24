@@ -98,7 +98,7 @@
   },
   "background": {
     "blur": 0.6,
-    "url": "https://raw.githubusercontent.com/nerd137/kokokokokokokokoko/main/IMG_6642.jpeg",
+    "url": "https://raw.githubusercontent.com/nerd137/kokokokokokokokoko/main/IMG_6637.jpeg",
     "alpha": 0.5
   },
   "spec": 2
